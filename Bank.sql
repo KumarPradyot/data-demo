@@ -41,7 +41,7 @@ VALUES
 #select * from users where payment_method not in("debitcard", "netbanking");
 
 #select * from users where payment_method in ("delhi");
-select * from users limit 3;
+#select * from users limit 3;
 
 #select * from users limit 3;
-select * from users where payment_method in ("delhi");
+#select * from users where payment_method in ("delhi");
